@@ -28,3 +28,11 @@ assets/
 
 
 ![ScreenRecording1446-02-17at6 35 22AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b95cb2c8-8734-4b4c-923d-d76e7f76ed46)
+
+
+##UI (Update)
+
+
+
+![Screenshot 1446-02-17 at 7 51 19 AM](https://github.com/user-attachments/assets/38597d93-4ee5-463c-a4ea-f6bad69f6254)
+
