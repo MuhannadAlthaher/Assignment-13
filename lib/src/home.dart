@@ -131,7 +131,7 @@ class Home extends StatelessWidget {
                                 ),
                               ),
                               validator: (value) {
-                                if (value == null || value.length != 5) {
+                                if (value == null || value.length != 2) {
                                   return "Invalid date";
                                 }
                                 return null;
@@ -252,7 +252,7 @@ class Home extends StatelessWidget {
             ElevatedButton(
               onPressed: () {
                 if (cardNumber.text.length != 16 ||
-                    expaier.text.length != 5 ||
+                    expaier.text.length != 2 ||
                     cardHolder.text.isEmpty) {
                   showDialog(
                       context: context,
@@ -298,7 +298,7 @@ class Home extends StatelessWidget {
                                 top: 160,
                                 left: 230,
                                 child: Text(
-                                  expaier.text,
+                                  '${expaier.text}/2025',
                                   style: TextStyle(
                                     color: Colors.white,
                                   ),
